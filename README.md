@@ -1,45 +1,30 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Leet Code
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista:** 4<br>
+**Conteúdo da Disciplina:** D&C<br>
+**Vídeo de Apresentação:**
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0083930  |  Ana Caroline C. Rocha|
+| 21/1029441  |  Lucas Gobbi Bergholz |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercícios difíceis (nível 9 ou 10) e 1 médio (nível 7 ou 8) que estejam relacionado ao conteúdo que vimos em Dividir e Conquistar. Depois de submetidos no juiz online e aprovados, os exercícios serão inseridos aqui no repositório.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Exercícios Escolhidos
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Nível Médio
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+|Exercício | Aluno |
+| -- | -- |
+|  | Ana Caroline C. Rocha |
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Nível Difícil
 
-
-
-
+|Exercício | Aluno |
+| -- | -- |
+| [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Ana Caroline C. Rocha |
+|  | Lucas Gobbi Bergholz |
+|  | Lucas Gobbi Bergholz |
