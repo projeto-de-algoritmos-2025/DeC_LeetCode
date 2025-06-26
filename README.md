@@ -19,7 +19,7 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 
 |Exercício | Aluno |
 | -- | -- |
-|  | Ana Caroline C. Rocha |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) | Ana Caroline C. Rocha |
 
 ### Nível Difícil
 
