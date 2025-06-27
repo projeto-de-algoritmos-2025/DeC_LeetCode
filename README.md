@@ -26,5 +26,5 @@ A partir do juiz Online [LeetCode](https://leetcode.com/) selecionamos 3 exercí
 |Exercício | Aluno |
 | -- | -- |
 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Ana Caroline C. Rocha |
-|  | Lucas Gobbi Bergholz |
-|  | Lucas Gobbi Bergholz |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  | Lucas Gobbi Bergholz |
+| [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)  | Lucas Gobbi Bergholz |
