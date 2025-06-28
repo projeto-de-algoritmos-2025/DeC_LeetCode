@@ -2,7 +2,7 @@
 
 **Número da Lista:** 4<br>
 **Conteúdo da Disciplina:** D&C<br>
-**Vídeo de Apresentação:**
+**Vídeo de Apresentação:** [https://youtu.be/v6T77BcTI0c](https://youtu.be/v6T77BcTI0c)
 
 ## Alunos
 |Matrícula | Aluno |
